@@ -13,7 +13,7 @@ A Simple CSS Chart System
 <link rel="stylesheet" href="chart.css">
 
 <!-- RawGit CDN chart.css -->
-<link rel="stylesheet" href="https://cdn.rawgit.com/theus/chart.css/v1.0.0/dist/chart.css" /> 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/theus/chart.css@v1.0.0/dist/chart.css" /> 
 ```
 
 You can use the file served by RawGit CDN or download and put chart.css file. Note that only needs one way.
